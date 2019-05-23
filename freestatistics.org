@@ -1,0 +1,33 @@
+** TODO Razones a favor de la estadística libre
++ Ofrece 4 libertades (uso, copia, modificación y redistribución de lo modificado)
++ Es posible hacer ciencia reproducible. Sin acceso al código fuente no es posible reproducir resultados.
++ El desarrollo se hace en comunidad. Si formas parte de la comunidad tus necesidades son escuchadas y seguramente desarrolladas.
++ La apertura de los datos es cada vez más demandada por la UE y los programas marcos de investigación
++ La compartición de los avances científicos es central en la Ciencia. Un equipo en una Universidad debería poder experimentar con el software estadístico sin trabas.
++ Gran soporte de librerias, plugins y módulos generalistas y específicas desarrollados por una comunidad centrada en la investigación
+** TODO Opciones
+*** GNU R
+R es el lenguaje estadístico con más módulos.
+GUIS: R commander, Gretl (análisis econométrico)
+*** Python
+No es un lenguaje orientado a la estadística por lo que para
+reproducir las funcionalidades de GNU R es necesario instalar una
+serie de paquetería:
++ [ ] Pandas
++ [ ] Scipy
++ [ ] Scikit
++ [ ] Matplotlib
+
+Pandas es necesario para tener las estructuras de datos de la manera de dataframes.
+Scipy es una librería matemática.
+Scikit es para machine learning
+Matplotlib permite la representación gráfica de los resultados.
+*** Ruby
+
+*** Julia
+Lenguaje de programación. Más enfocado en IA (machine learning) y ciencia. Tiene entornos (DSL) para ámbitos específicos (bilogía, economía, etc)
+Tiene interfaces para otros lenguajes de programación, entre ellos python (JuliaPy) y R (JuliaCall)
++ Juno IDE,  un IDE estadístico para Julia equivalente al RStudio para R
+
+*** PSPP
+Alternatia libre a SPSS, que es un paquete estadístico maduro y consolidado en el sector, ampliamente usado.
