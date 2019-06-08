@@ -1,10 +1,11 @@
 ** TODO Razones a favor de la estadística libre
 + Ofrece 4 libertades (uso, copia, modificación y redistribución de lo modificado)
-+ Es posible hacer ciencia reproducible. Sin acceso al código fuente no es posible reproducir resultados.
++ Es posible hacer ciencia reproducible. Sin acceso al código fuente no es posible reproducir resultados sin pruebas de caja negra.
 + El desarrollo se hace en comunidad. Si formas parte de la comunidad tus necesidades son escuchadas y seguramente desarrolladas.
 + La apertura de los datos es cada vez más demandada por la UE y los programas marcos de investigación
 + La compartición de los avances científicos es central en la Ciencia. Un equipo en una Universidad debería poder experimentar con el software estadístico sin trabas.
 + Gran soporte de librerias, plugins y módulos generalistas y específicas desarrollados por una comunidad centrada en la investigación
++ Si la estadística es libre, el acceso al software pasa de ser de caro a cero. Lo cual hace que los análisis sociológicos estén al alcance de personas con menos recursos económicos. En este momento en el que el mundo sufre las mayorese desigualdades económicas de la Historia es una razón de importancia.
 ** TODO Opciones
 *** GNU R
 R es el lenguaje estadístico con más módulos.
